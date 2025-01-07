@@ -1,5 +1,3 @@
-# Creating the README for the Pascal/CamelCase to Snake_Case Converter
-readme_content_snake_case = """
 # Pascal/CamelCase to Snake_Case Converter
 
 This Python program converts strings written in PascalCase or camelCase into snake_case. It's a simple utility function that ensures proper formatting by following a consistent naming convention.
